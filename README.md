@@ -10,10 +10,10 @@
      0.1倍节点很多，公告说0.1倍节点和正常节点的质量没有明显区别，下载大文件可以使用0.1倍
      沙雕二次元风格网站
            
-订阅方式：
-(1)周期订阅：
+订阅方式： 
+     (1)周期订阅：
      <img width="1392" height="999" alt="image" src="https://github.com/user-attachments/assets/ab1a3a19-93bf-4691-a2ef-4663032200c1" />
-(2)不限时流量：
+     (2)不限时流量：
      <img width="1400" height="974" alt="image" src="https://github.com/user-attachments/assets/48cf49c2-059f-4985-b0f0-b93f12b62d93" />
        
 记录：
@@ -21,6 +21,6 @@
      <img width="414" height="264" alt="image" src="https://github.com/user-attachments/assets/7735d3ec-ac6c-48d7-9d42-1aaa874230d1" />
      (2) 2026.11.18 查看用量，只用了31GB流量，流量没有明显感觉虚标
      <img width="1283" height="228" alt="image" src="https://github.com/user-attachments/assets/c182e641-66c1-4fa3-b680-f9d08de2c6b6" />
-      (3) 该机场IP纯净度一般，不过好在节点多，总能有个节点可以访问
+     (3) 该机场IP纯净度一般，不过好在节点多，总能有个节点可以访问
 
 
